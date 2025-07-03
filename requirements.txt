@@ -1,0 +1,2 @@
+# Nenhuma dependência externa. 
+# Usamos apenas o módulo sqlite3 da biblioteca padrão do Python.
